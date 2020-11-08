@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\bin\Debug\Controlador.exe
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\bin\Debug\Controlador.pdb
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\bin\Debug\Modelolcgs.exe
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\bin\Debug\Modelolcgs.pdb
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\bin\Debug\Modelolcgs.exe.config
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\obj\Debug\Controlador.exe
+C:\Users\USER\source\repos\Concesionariolcgs\Controlador\obj\Debug\Controlador.pdb

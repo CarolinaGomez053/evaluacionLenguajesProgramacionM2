@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\obj\Debug\Modelolcgs.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\obj\Debug\Modelolcgs.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\bin\Debug\Modelolcgs.exe.config
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\bin\Debug\Modelolcgs.exe
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\bin\Debug\Modelolcgs.pdb
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\obj\Debug\Modelolcgs.exe
+C:\Users\USER\source\repos\Concesionariolcgs\Modelolcgs\obj\Debug\Modelolcgs.pdb
